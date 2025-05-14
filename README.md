@@ -3,4 +3,5 @@ For Starting Screen
 
 # npm install
 
-![4p9p4o](https://user-images.githubusercontent.com/40635491/101279824-0d02db80-37ed-11eb-9d23-3348988077de.gif)
+
+![hinh-nen-trai-tim-cute](https://github.com/user-attachments/assets/149968a4-67c3-44d7-832e-cffc5e3daa84)
